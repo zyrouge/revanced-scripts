@@ -155,6 +155,7 @@ echo "I: Patching '${app_apk}' into '${rv_app_apk}'"
     "${java_cmd}" \
         -jar "${rv_cli_jar}" \
         patch \
+        --include "Custom branding" \
         --patch-bundle "${rv_patches_jar}" \
         --merge "${rv_integrations_apk}" \
         --out "${rv_app_apk}" \
