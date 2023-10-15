@@ -1,6 +1,6 @@
 # Revanced Scripts
 
-Script to easily create ReVanced APKs.
+Script to easily build ReVanced APKs.
 
 ## Usage
 
