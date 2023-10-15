@@ -28,4 +28,4 @@ cd revanced-scripts
 
 ## License
 
-[Unlicense](./LICENSE)
+[The Unlicense](./LICENSE)
